@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .banner{
+    height: 600px;
+    background-color: tomato;
+}
+.banner1{
+    height: 600px;
+    background-color: gray;
+}
+.banner2{
+    height: 600px;
+    background-color: teal;
+}
+.banner3{
+    height: 600px;
+    background-color: blue;
+}
+.top{
+    height: 40px;
+    width: 40px;
+    background-color: yellowgreen;
+    position: fixed;
+    bottom: 20px;
+    line-height: 40px;
+    right: 20px;
+    text-align: center;
+    cursor: pointer;
+    display: none;
+} */
+.main img{
+    width: 600px;
+}
+.main i{
+    color: #fff;
+}
+.main2{
+    background-color:rgba(34, 34, 34, 0.412);
+    height: 100vh;
+}
